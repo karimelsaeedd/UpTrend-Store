@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hq7ftr9kft0J2KaB/yteH1N8E213wGNAqK0Wv2OMp4G7WyslqmjflWSQMJK07OtgJ0cSpb+6RLYR7wj3aNr8Kg==",
+  "success": true,
+  "projectFilePath": "D:\\iti\\projects\\UpTrend-Store\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\karem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\karem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\karem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\karem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\karem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
