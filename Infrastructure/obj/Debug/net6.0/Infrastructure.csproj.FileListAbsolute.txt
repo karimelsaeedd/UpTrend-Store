@@ -1,0 +1,15 @@
+D:\iti\projects\UpTrend-Store\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\iti\projects\UpTrend-Store\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\iti\projects\UpTrend-Store\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\iti\projects\UpTrend-Store\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\iti\projects\UpTrend-Store\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
