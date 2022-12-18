@@ -13,3 +13,5 @@ D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
 D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\iti\projects\UpTrend-Store\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\iti\projects\UpTrend-Store\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
