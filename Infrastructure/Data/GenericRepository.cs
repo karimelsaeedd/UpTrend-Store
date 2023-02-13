@@ -1,5 +1,6 @@
 ﻿using Core.Entities;
 using Core.Interfaces;
+using Core.Specifications;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data
@@ -21,6 +22,16 @@ namespace Infrastructure.Data
         public async Task<IReadOnlyList<T>> ListAllAsync()
         {
             return await _context.Set<T>().ToListAsync();
+        }
+
+        public Task<T> GetEntityWithSpec(ISpecification<T> spec)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<IReadOnlyList<T>> ListAsync(ISpecification<T> spec)
+        {
+            throw new NotImplementedException();
         }
     }
 }
