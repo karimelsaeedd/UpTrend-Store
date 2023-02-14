@@ -66,3 +66,4 @@ D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\Infrastructure.pdb
 D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\Core.pdb
 D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\AutoMapper.dll
 D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\Api.staticwebassets.runtime.json
