@@ -64,3 +64,5 @@ D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\Core.dll
 D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\Infrastructure.dll
 D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\Infrastructure.pdb
 D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\Core.pdb
+D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\AutoMapper.dll
+D:\iti\projects\UpTrend-Store\Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

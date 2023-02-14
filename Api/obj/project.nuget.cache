@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "E2Ja4GXrHT1G4KjX8Jr35o/vhuMrVUajZG7OHIU0fEB4vIahYQ2Bo7sTq8zdP8KQLT7AnXVQsY0qMvivCLaMxA==",
+  "dgSpecHash": "5zaIfijkKhHDi+k9HuLDnFTka7GHJroNXpzooFRx8oM9MsV4AoqBfyRgzp5uNk7d0ribNwGgK6Bvq1U4jiHFjw==",
   "success": true,
   "projectFilePath": "D:\\iti\\projects\\UpTrend-Store\\Api\\Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\karem\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\karem\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\karem\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\karem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\karem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\karem\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\karem\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\karem\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.11\\microsoft.entityframeworkcore.6.0.11.nupkg.sha512",
